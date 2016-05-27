@@ -1,0 +1,8 @@
+
+I am order with: 
+id: 1
+customer name: Name 
+products: Product id: 100 Product name: Bicycle Product price: 12500.0 Quantity: 1
+	  Product id: 1500 Product name: Laptop Product price: 125000.0 Quantity: 1
+	  Product id: 1580 Product name: Phone Product price: 500.0 Quantity: 1
+	  
